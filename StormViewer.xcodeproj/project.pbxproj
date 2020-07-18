@@ -62,7 +62,6 @@
 		A03DB4AC24C299AE0051F50F = {
 			isa = PBXGroup;
 			children = (
-				A03DB4E324C2B4D00051F50F /* images */,
 				A03DB4B724C299AE0051F50F /* StormViewer */,
 				A03DB4B624C299AE0051F50F /* Products */,
 			);
@@ -107,13 +106,6 @@
 				A03DB4D624C299C10051F50F /* nssl0034.jpg */,
 			);
 			path = "project1-files";
-			sourceTree = "<group>";
-		};
-		A03DB4E324C2B4D00051F50F /* images */ = {
-			isa = PBXGroup;
-			children = (
-			);
-			path = images;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */

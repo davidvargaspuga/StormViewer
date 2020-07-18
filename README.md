@@ -16,7 +16,6 @@ Day 16-18 of "100 days of Swift": an app with a menu of storm pictures that show
 
 [![Example 1][product-screenshot1]]()
 [![Example 2][product-screenshot2]]()
-[![Example 3][product-screenshot3]]()
 
 ### Built With
 
